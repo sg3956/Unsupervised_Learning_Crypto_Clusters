@@ -20,7 +20,7 @@ Pandas
 Hvplot
 
 
-SKlearn
+Sklearn
 
 
 ---
@@ -57,14 +57,14 @@ Upon running the program the following plots will be displayed:
  
  
  
-![Screenshot](https://raw.githubusercontent.com/sg3956/Unsupervised_Learning_Crypto_Clusters/main/screenshot_1.png)
+![S](https://raw.githubusercontent.com/sg3956/Unsupervised_Learning_Crypto_Clusters/main/scatter_plot_1.png)
 
 
 
 
 
 
-![Screenshot](https://raw.githubusercontent.com/sg3956/Unsupervised_Learning_Crypto_Clusters/main/screenshot_2.png)
+![s](https://raw.githubusercontent.com/sg3956/Unsupervised_Learning_Crypto_Clusters/main/scatter_plot_2.png)
 
 
 ---
